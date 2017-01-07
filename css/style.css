@@ -80,6 +80,7 @@ h1 {
 	float: right;
 	color: white;
 	font-size: 25px;
+	margin-right: 20px;
 }
 
 nav ul {
@@ -114,6 +115,7 @@ nav ul>li>a:hover {
 
 ol>li, p {
 	padding: 10px 0 10px;
+	text-align: justify;
 }
 
 .pink {
@@ -139,9 +141,4 @@ footer {
 	padding-top: 16px;
 }
 
-.start-point .fa-arrow-down:before {
-	color: black;
-	height: 16px;
-	width: 16px;
-	font-size: 16px;
-}
+
